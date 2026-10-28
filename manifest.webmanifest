@@ -1,0 +1,26 @@
+{
+  "id": "./",
+  "name": "ClassMate – VENOM",
+  "short_name": "ClassMate",
+  "description": "تطبيق مدرسي ثنائي اللغة لثانوية تأهيلية الكواسم",
+  "lang": "ar",
+  "dir": "auto",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f4f7fb",
+  "theme_color": "#183a65",
+  "categories": [
+    "education",
+    "productivity"
+  ],
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
